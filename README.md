@@ -10,10 +10,10 @@ Modelling ('AdaBoosting.py', 'Gradient Boosting.py', 'GRU.ipynb', 'Logistic Regr
 Data ('fama_french_data.csv')
 - This CSV contains all of the data (features and targets) used in training/validation/testing. Note that descriptions of what each variable mean can be found in the paper.
 
-Results (Folder:'Results')
+Results (Folder: 'Results')
 - This folder contains 'Predicts_all.xlsx', an Excel file containing all of the models' predictions.
 - This folder also contains 'monthly_returns.csv' which breaks down the performance of all passive/active strategies based on these models. A description of these trading strategies can be found in the paper.
-- The folder 'Feature Importance' contains the feature importances for the random forest and logistic regression models.
+- The folder 'Feature Importance' contain csv files of the feature importances for the random forest and logistic regression models.
 
 Other ('CumulativeReturns.ipynb', 'FeatureImportances.ipynb')
 - These are the scripts which calculated cumulative returns and random forest feature importances.
