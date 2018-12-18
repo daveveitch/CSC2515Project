@@ -1,8 +1,11 @@
 # CSC2515Project - Predicting Fama-French Factors Using Machine Learning Techniques
 
-In this repository you will find the code behind our paper "Predicting Fama-French Factors Using Machine Learning Techniques" which is the PDF in the repository.
+In this repository you will find the code behind our paper "Predicting Fama-French Factors Using Machine Learning Techniques".
 
 A quick breakdown of how this repository is organized.
+
+Report (Folder: 'Report')
+- This folder contains a PDF copy of our report plus the LaTeX files used to produce it.
 
 Modelling ('AdaBoosting.py', 'Gradient Boosting.py', 'GRU.ipynb', 'Logistic Regression.ipynb', 'SVM_RF_MLP.ipynb').
 - These files contain the underlying code used to come up with the predictions made for the Fama-French Factors.
